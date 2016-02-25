@@ -31,3 +31,14 @@ C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Deb
 C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Debug\Hydra_Testing.Form1.resources
 C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Debug\Hydra_Testing.Properties.Resources.resources
 C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Debug\Hydra_Testing.csproj.GenerateResource.Cache
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\bin\Debug\Hydra_Testing.exe.config
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Debug\Hydra_Testing.exe
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Debug\Hydra_Testing.pdb
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\bin\Debug\Hydra_Testing.exe
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\bin\Debug\Hydra_Testing.pdb
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\bin\Debug\HydraAPI.dll
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\bin\Debug\HydraAPI.pdb
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Debug\Hydra_Testing.csprojResolveAssemblyReference.cache
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Debug\Hydra_Testing.Form1.resources
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Debug\Hydra_Testing.Properties.Resources.resources
+C:\Users\sirius\Desktop\gitsharedfolder\SIRIUSrepo\Hydra cm\Source Code\Hydra_Testing\Hydra_Testing\obj\Debug\Hydra_Testing.csproj.GenerateResource.Cache

@@ -23,6 +23,7 @@ namespace Hydra_Testing
     
         private void Start_Hadoop_Click(object sender, EventArgs e)
         {
+            //starting hadoop
             Console.Write("hello");
             initialize.start_hadoop();
             
