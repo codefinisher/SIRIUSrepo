@@ -1,0 +1,63 @@
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\bin\Debug\Hydra.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\bin\Debug\Hydra.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\bin\Debug\CosmosStorage.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\bin\Debug\Newtonsoft.Json.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\bin\Debug\RestSharp.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\bin\Debug\CosmosStorage.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\bin\Debug\Newtonsoft.Json.xml
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\bin\Debug\RestSharp.xml
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\obj\Debug\Hydra.csprojResolveAssemblyReference.cache
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\obj\Debug\Hydra.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra\Hydra\obj\Debug\Hydra.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\Hydra.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\Hydra.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\CosmosStorage.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\Newtonsoft.Json.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\RestSharp.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\CosmosStorage.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\Newtonsoft.Json.xml
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\RestSharp.xml
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Hydra.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Hydra.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Hydra.csprojResolveAssemblyReference.cache
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\SaveFile.exe
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\SaveFile.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Hydra.csprojFakesResolveAssemblyReference.cache
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\fakes.args
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\CosmosStorage.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\CosmosStorage.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\Newtonsoft.Json.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\Newtonsoft.Json.xml
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\RestSharp.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\RestSharp.xml
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\SaveFile.1.0.0.0.Fakes.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\SaveFile.1.0.0.0.Fakes.fakesconfig
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\SaveFile.1.0.0.0.Fakes.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\SaveFile.1.0.0.0.Fakes.xml
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\SaveFile.exe
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\b\SaveFile.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\f.ah
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\f.ch
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\f.cs
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\f.csproj
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\f.fakes
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\f.fakesconfig
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\o\f.csproj.FileListAbsolute.txt
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\o\f.csprojResolveAssemblyReference.cache
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\o\SaveFile.1.0.0.0.Fakes.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\obj\Debug\Fakes\sf\o\SaveFile.1.0.0.0.Fakes.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\SaveFile.1.0.0.0.Fakes.fakesconfig
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\Hydra_Cosmos\Hydra\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\Hydra.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\Hydra.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\CosmosStorage.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\RestSharp.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\SaveFile.exe
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\CosmosStorage.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\RestSharp.xml
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\bin\Debug\SaveFile.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\obj\Debug\Hydra.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\Hydra_Cosmos\Hydra\obj\Debug\Hydra.pdb

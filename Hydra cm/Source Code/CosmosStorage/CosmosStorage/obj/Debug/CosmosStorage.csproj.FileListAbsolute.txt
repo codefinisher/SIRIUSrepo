@@ -1,0 +1,14 @@
+c:\users\jukaaay\documents\visual studio 2012\Projects\CosmosStorage\CosmosStorage\obj\Debug\CosmosStorage.csprojResolveAssemblyReference.cache
+c:\users\jukaaay\documents\visual studio 2012\Projects\CosmosStorage\CosmosStorage\bin\Debug\CosmosStorage.dll
+c:\users\jukaaay\documents\visual studio 2012\Projects\CosmosStorage\CosmosStorage\bin\Debug\CosmosStorage.pdb
+c:\users\jukaaay\documents\visual studio 2012\Projects\CosmosStorage\CosmosStorage\obj\Debug\CosmosStorage.dll
+c:\users\jukaaay\documents\visual studio 2012\Projects\CosmosStorage\CosmosStorage\obj\Debug\CosmosStorage.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\CosmosStorage\CosmosStorage\bin\Debug\CosmosStorage.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\CosmosStorage\CosmosStorage\bin\Debug\CosmosStorage.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\CosmosStorage\CosmosStorage\obj\Debug\CosmosStorage.dll
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\CosmosStorage\CosmosStorage\obj\Debug\CosmosStorage.pdb
+D:\School\Thesis\CosmosV2\Hydra_v1_Codes\Bitbucket\CosmosStorage\CosmosStorage\obj\Debug\CosmosStorage.csprojResolveAssemblyReference.cache
+C:\Users\sirius\Desktop\Hydra cm\Source Code\CosmosStorage\CosmosStorage\bin\Debug\CosmosStorage.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\CosmosStorage\CosmosStorage\bin\Debug\CosmosStorage.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\CosmosStorage\CosmosStorage\obj\Debug\CosmosStorage.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\CosmosStorage\CosmosStorage\obj\Debug\CosmosStorage.pdb

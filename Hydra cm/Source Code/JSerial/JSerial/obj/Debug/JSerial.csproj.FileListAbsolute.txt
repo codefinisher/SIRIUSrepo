@@ -1,0 +1,9 @@
+C:\Users\sirius\Desktop\Hydra cm\Source Code\JSerial\JSerial\bin\Debug\JSerial.exe.config
+C:\Users\sirius\Desktop\Hydra cm\Source Code\JSerial\JSerial\bin\Debug\JSerial.exe
+C:\Users\sirius\Desktop\Hydra cm\Source Code\JSerial\JSerial\bin\Debug\JSerial.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\JSerial\JSerial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\JSerial\JSerial\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\JSerial\JSerial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sirius\Desktop\Hydra cm\Source Code\JSerial\JSerial\obj\Debug\JSerial.csprojResolveAssemblyReference.cache
+C:\Users\sirius\Desktop\Hydra cm\Source Code\JSerial\JSerial\obj\Debug\JSerial.exe
+C:\Users\sirius\Desktop\Hydra cm\Source Code\JSerial\JSerial\obj\Debug\JSerial.pdb

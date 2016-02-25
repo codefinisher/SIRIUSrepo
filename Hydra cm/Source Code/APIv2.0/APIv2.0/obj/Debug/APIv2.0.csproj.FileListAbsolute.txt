@@ -1,0 +1,73 @@
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\obj\Debug\APIv2.0.csprojResolveAssemblyReference.cache
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\APIv2.0.dll
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\APIv2.0.pdb
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\CommunicationV2.0.dll
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\Models.dll
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\Apache.NMS.dll
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\CommunicationV2.0.pdb
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\Core.pdb
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\Models.pdb
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\obj\Debug\APIv2.0.dll
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\obj\Debug\APIv2.0.pdb
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\Entry.dll
+C:\Users\Tiano\Documents\Thesis Modules\APIv2.0\APIv2.0\bin\Debug\Entry.pdb
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\APIv2.0.dll
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\APIv2.0.pdb
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\CommunicationV2.0.dll
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Entry.dll
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Models.dll
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Apache.NMS.dll
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\CommunicationV2.0.pdb
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Entry.pdb
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Models.pdb
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\obj\Debug\APIv2.0.csprojResolveAssemblyReference.cache
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\obj\Debug\APIv2.0.dll
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\obj\Debug\APIv2.0.pdb
+C:\Users\Tiano\Desktop\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\CoreV2.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\APIv2.0.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\APIv2.0.pdb
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\CommunicationV2.0.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\CoreV2.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\CosmosStorage.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Entry.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Hydra.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Models.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Apache.NMS.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\RestSharp.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\CommunicationV2.0.pdb
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\CosmosStorage.pdb
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Entry.pdb
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Hydra.pdb
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\Models.pdb
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\bin\Debug\RestSharp.xml
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\obj\Debug\APIv2.0.csprojResolveAssemblyReference.cache
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\obj\Debug\APIv2.0.dll
+D:\School\Thesis\cosmos\COSMOS-Apps\APIv2.0\APIv2.0\obj\Debug\APIv2.0.pdb
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\APIv2.0.dll
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\APIv2.0.pdb
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\Apache.NMS.dll
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\RestSharp.dll
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\CommunicationV2.0.pdb
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\CosmosStorage.pdb
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\Entry.pdb
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\Hydra.pdb
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\Models.pdb
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\bin\Debug\RestSharp.xml
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\obj\Debug\APIv2.0.csprojResolveAssemblyReference.cache
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\obj\Debug\APIv2.0.dll
+C:\Users\aids\Desktop\Thesis\Hydra\Source Code\APIv2.0\APIv2.0\obj\Debug\APIv2.0.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\bin\Debug\APIv2.0.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\bin\Debug\APIv2.0.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\obj\Debug\APIv2.0.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\obj\Debug\APIv2.0.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\obj\Debug\APIv2.0.csprojResolveAssemblyReference.cache
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\bin\Debug\CosmosStorage.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\bin\Debug\Hydra.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\bin\Debug\RestSharp.dll
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\bin\Debug\CosmosStorage.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\bin\Debug\Hydra.pdb
+C:\Users\sirius\Desktop\Hydra cm\Source Code\APIv2.0\APIv2.0\bin\Debug\RestSharp.xml
