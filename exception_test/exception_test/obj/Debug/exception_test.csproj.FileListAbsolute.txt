@@ -1,0 +1,6 @@
+C:\Users\sirius\Documents\Visual Studio 2013\Projects\exception_test\exception_test\bin\Debug\exception_test.exe.config
+C:\Users\sirius\Documents\Visual Studio 2013\Projects\exception_test\exception_test\bin\Debug\exception_test.exe
+C:\Users\sirius\Documents\Visual Studio 2013\Projects\exception_test\exception_test\bin\Debug\exception_test.pdb
+C:\Users\sirius\Documents\Visual Studio 2013\Projects\exception_test\exception_test\obj\Debug\exception_test.csprojResolveAssemblyReference.cache
+C:\Users\sirius\Documents\Visual Studio 2013\Projects\exception_test\exception_test\obj\Debug\exception_test.exe
+C:\Users\sirius\Documents\Visual Studio 2013\Projects\exception_test\exception_test\obj\Debug\exception_test.pdb
